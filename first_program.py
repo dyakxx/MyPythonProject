@@ -14,7 +14,7 @@ lesson 2.3
 sqr_v, sqr_s = int(input()), int(input())
 v_v = sqr_v * sqr_v * sqr_v
 s_s = 6 * (sqr_s * sqr_s)
-print("Объем =", v_v)
+print("Square =", v_v)
 print("Площадь полной поверхности =", s_s)
 """
 
@@ -49,7 +49,7 @@ print("Площадь полной поверхности =", s_s)
 
 # 1--print()
 # name_var = input()
-# print("Привет,", name_var, end="!")
+# print("hello,", name_var, end="!")
 
 # print ("I***like***Python")
 # print ('I','like','Python', sep='***')
